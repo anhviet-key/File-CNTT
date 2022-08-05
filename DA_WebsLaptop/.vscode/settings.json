@@ -1,0 +1,9 @@
+{
+    "beautify.config": "",
+    "footsteps.doHighlightCurrentlyFocusedChunk": true,
+    "prettier.arrowParens": "avoid",
+    "prettier.singleQuote": true,
+    "beautify.ignore": "",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
